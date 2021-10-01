@@ -32,3 +32,10 @@ body{
   width: 100%;
   font-weight: bold;
 }
+.text2 {
+  position: fixed;
+  top: 80px;
+  text-align: center;
+  width: 100%;
+  font-weight: bold;
+}
