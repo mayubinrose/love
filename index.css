@@ -24,3 +24,10 @@ body{
   /* 设置倒影 */
   -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgba(250, 250, 250, 0.1)));
 }
+.text {
+  position: fixed;
+  bottom: 80px;
+  text-align: center;
+  width: 100%;
+  font-weight: bold;
+}
